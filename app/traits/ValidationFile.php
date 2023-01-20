@@ -10,7 +10,7 @@ trait ValidationFile {
         }
     }
 
-    protected function teste() {
-        return 'teste';
-    }
+    // protected function teste() {
+    //     return 'teste';
+    // }
 }
